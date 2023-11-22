@@ -17,7 +17,7 @@ This brain dump was created by Fran for those in need of a resume overhaul. This
 ## Key Ideas
 This is a rough outline of what I will be covering. I will be updating this as I go along as well.
 
-1. [Why Your Resume Sucks](#why-your-resume-sucks)
+1. [Why My Resume Sucked (and probably yours too)](#why-my-resume-sucked-and-probably-yours-too)
   - [Applicant Tracking Systems (ATS)](#applicant-tracking-systems-ats)
   - [Why is this happening?](#why-is-this-happening)
   - [What's Submitted vs What's Shown](#whats-submitted-vs-whats-shown)
