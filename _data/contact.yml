@@ -11,3 +11,7 @@
 - type: linkedin
   icon: 'fab fa-linkedin'
   url:  'https://linkedin.com/in/fleejy'
+
+- type: medium
+  icon: 'fa fa-brands fa-medium'
+  url: 'https://medium.com/@fuleejy'
